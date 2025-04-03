@@ -1,6 +1,6 @@
 
 # Algorithmic Trading Strategy Whitepaper: QQQ ETF  
-**Date**: 2025-04-03  
+**Date**: 2025-04-04  
 
 ## Performance Summary  
 - **Total Return**: 29.62%  
