@@ -1,17 +1,17 @@
 
 # Algorithmic Trading Strategy Whitepaper: QQQ ETF  
-**Date**: 2025-04-04  
+**Date**: 2025-04-10  
 
 ## Performance Summary  
-- **Total Return**: 29.62%  
-- **Annualized Sharpe Ratio**: 0.50  
-- **Maximum Drawdown**: -34.55%  
+- **Total Return**: 45.00%  
+- **Annualized Sharpe Ratio**: 1.55  
+- **Maximum Drawdown**: -11.17%  
 - **Win Rate**: 55.56%  
 
 ## Risk Analysis  
 ### Monte Carlo Simulation  
-- **5th Percentile (Worst Case)**: $985.50  
-- **95th Percentile (Best Case)**: $2065.95  
+- **5th Percentile (Worst Case)**: $1412.40  
+- **95th Percentile (Best Case)**: $2488.51  
 
 ### Key Drivers  
 The model prioritized these indicators (top 3):  
@@ -27,4 +27,4 @@ The model prioritized these indicators (top 3):
 3. **Risk Controls**: Implement trailing stop-loss (5%) instead of fixed.  
 
 ## Conclusion  
-This strategy achieved a positive return of 29.62% with moderate risk (Sharpe: 0.50).  
+This strategy achieved a positive return of 45.00% with moderate risk (Sharpe: 1.55).  
